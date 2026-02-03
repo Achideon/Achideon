@@ -16,6 +16,7 @@ Feel free to check out my repos ( •̀ ω •́ )✧
 [![Haskell][Haskell]][Haskell-url]
 [![Qwik][Qwik]][Qwik-url]
 [![Next][Next.js]][Next.js-url]
+[![Figma][Figma]][Figma-url]
 
 </h1>
 
@@ -32,5 +33,7 @@ Feel free to check out my repos ( •̀ ω •́ )✧
 [Qwik-url]: https://qwik.builder.io/
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next.js-url]: https://nextjs.org/
+[Figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[Figma-url]: https://www.figma.com/
 
 
